@@ -31,7 +31,7 @@ body { padding:0; margin:0; }
 #main h1.wi { margin-bottom:5px;}
 #main p.sub { font-size:95%; color:#999;}
 
-#main table.queues { width:40%;}
+#main table.queues { width:80%;}
 #main table.queues td.queue { font-weight:bold; width:50%;}
 #main table.queues tr.failure td { background:#ffecec; font-size:90%; color:#d37474;}
 #main table.queues tr.failure td a{ color:#d37474;}
@@ -57,7 +57,7 @@ body { padding:0; margin:0; }
 #main.polling table.workers tr.working td.process code { font-weight:bold;}
 
 
-#main table.stats th { font-size:100%; width:40%; color:#000;}
+#main table.stats th { font-size:100%; width:80%; color:#000;}
 #main hr { border:0; border-top:5px solid #efefef;  margin:15px 0;}
 
 #footer { padding:10px 5%; background:#efefef; color:#999; font-size:85%; line-height:1.5; border-top:5px solid #ccc; padding-top:10px;}
